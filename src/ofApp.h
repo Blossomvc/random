@@ -3,6 +3,7 @@
 #include "ofMain.h"
 #include <vector>
 
+
 using namespace std;
 
 class ofApp : public ofBaseApp{
@@ -28,5 +29,6 @@ private:
 
      vector<float> X, Y;
      ofImage jewel;
+     	
   
 };
