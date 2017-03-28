@@ -17,11 +17,9 @@ for(int i = 0u; i < 20; i++)
    X.push_back(left(gen));
    Y.push_back(right(gen));
  }
-//X = {500, 1000, 30, 100, 300, 200, 750, 380 };// set of x-coordinates for jewel
-//Y = {630, 400, 900,40, 200, 0, 90, 30}; //set of y-coordinates for jewel
+
 }
-//0<=x<=1200
-//0<=y<=970
+
 //--------------------------------------------------------------
 void ofApp::update(){
 
